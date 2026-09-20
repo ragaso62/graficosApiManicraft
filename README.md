@@ -213,4 +213,4 @@ Compare each account **before × after** Sep 6; group accounts by person; count 
 
 ---
 
-*Source code: backend (Java/Spring Boot), data importer and dashboard (C#/WinForms) in this repository.*
+*Source code: backend (Java/Spring Boot)(https://github.com/ragaso62/comunidade-minecraft-api.git), data importer and dashboard (C#/WinForms) in this repository.*
