@@ -1,6 +1,6 @@
 # Access Patterns and Anticheat-Recorded Violations on a Minecraft Server: Analysis Before and After a Moderation Intervention
 
-> Versão em português: [README.pt-BR.md](README.pt-BR.md)
+> Versão em português: [README.pt-BR.md](README.pt-br.md)
 
 Final project for the Scientific Methodology course — Database Technology program.
 
