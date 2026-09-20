@@ -211,4 +211,4 @@ Comparar cada conta **antes × depois** de 06/09; agrupar contas por pessoa; con
 
 ---
 
-*Código-fonte: backend (Java/Spring Boot), importador de dados e dashboard (C#/WinForms) neste repositório.*
+*Código-fonte: backend (Java/Spring Boot)(https://github.com/ragaso62/comunidade-minecraft-api.git), importador de dados e dashboard (C#/WinForms) neste repositório.*
